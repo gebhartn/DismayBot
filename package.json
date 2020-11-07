@@ -45,6 +45,7 @@
     "@babel/preset-env": "^7.12.1",
     "@babel/runtime": "^7.12.1",
     "cross-env": "^7.0.2",
+    "discord.js": "^12.4.1",
     "dotenv": "^8.2.0",
     "pm2": "^4.5.0",
     "rimraf": "^3.0.2",
